@@ -40,3 +40,11 @@ p, li { color: var(--ink); }
 .contact h2 { margin-top: 16px; }
 ul { padding-left: 22px; }
 footer { color: var(--muted); font-size: 14px; border-top: 1px solid var(--line); margin-top: 48px; padding-top: 16px; padding-bottom: 32px; }
+.answer { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 4px 20px 12px; margin: 20px 0; }
+.answer h2 { margin-top: 16px; }
+.answer ul { margin: 0; }
+.warn { color: var(--muted); font-size: 15px; border-left: 3px solid var(--accent); padding-left: 12px; }
+.cta { margin-top: 32px; font-weight: 600; }
+.states a { display: inline-block; margin: 0 10px 4px 0; }
+.state-list { columns: 2; list-style: none; padding: 0; }
+.state-list li { margin-bottom: 6px; }
